@@ -209,3 +209,6 @@ Schema::table();
 //prihalsovani a middleware (pouzijte breeze nebo jetstream)
 //buildovani aplikace
 //propojeni s rectem nebo vue (pouzijte inertia)
+
+//11 hodinovy youtube kurz na laravel
+https://www.youtube.com/watch?v=0M84Nk7iWkA&t=3406s
